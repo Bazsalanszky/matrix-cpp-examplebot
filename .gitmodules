@@ -1,0 +1,3 @@
+[submodule "external/matrix-cpp-sdk"]
+	path = external/matrix-cpp-sdk
+	url = https://github.com/Bazsalanszky/matrix-cpp-sdk/
